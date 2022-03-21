@@ -1,0 +1,6 @@
+venv/
+*.pdf
+*.jpg
+out.txt
+*.pyc
+token.txt
